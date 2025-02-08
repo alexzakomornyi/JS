@@ -89,7 +89,7 @@ if (time >= 0 && time <= 15) {
     console.log("Second quarter");
 } else if (time > 30 && time <= 45) {
     console.log("Third quarter");
-} else if (time >45 && time <= 59) {
+} else if (time > 45 && time <= 59) {
     console.log("Fourth quarter");
 } else {
     console.log("????");

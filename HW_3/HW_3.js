@@ -82,7 +82,6 @@
 // for (let user of users) {
 //     if (user.status) {
 //         console.log(user);
-//
 //     }
 // }
 //
